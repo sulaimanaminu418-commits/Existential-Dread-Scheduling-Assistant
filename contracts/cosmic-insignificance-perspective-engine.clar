@@ -1,4 +1,5 @@
 ;; Cosmic Insignificance Perspective Engine Contract
+;; Header: v1.0.1 - minor metadata comment
 ;; Provides real-time scale comparisons between your problems and the heat death of the universe
 
 ;; Constants and Error Definitions
